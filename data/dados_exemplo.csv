@@ -1,0 +1,401 @@
+id,genero,cargo,salario,tempo_empresa,escolaridade
+E0001,M,Supervisor,9440.98,11,Superior
+E0002,M,Supervisor,11130.94,7,Superior
+E0003,M,Analista Sênior,9499.82,8,Pós-graduação
+E0004,M,Coordenador,13900.02,8,Mestrado
+E0005,F,Supervisor,10219.74,10,Superior
+E0006,M,Supervisor,11273.53,5,Superior
+E0007,F,Analista Júnior,4567.78,1,Superior
+E0008,M,Coordenador,13961.51,10,Pós-graduação
+E0009,F,Analista Júnior,4239.87,2,Superior
+E0010,M,Analista Pleno,7863.77,3,Pós-graduação
+E0011,M,Analista Sênior,11195.21,7,Pós-graduação
+E0012,F,Analista Trainee,2729.69,1,Pós-graduação
+E0013,F,Analista Trainee,2930.29,1,Superior
+E0014,M,Especialista,12936.61,10,Superior
+E0015,M,Especialista,13451.44,6,Superior
+E0016,F,Analista Pleno,5418.87,3,Superior
+E0017,M,Analista Júnior,5247.32,2,Superior
+E0018,M,Supervisor,9624.12,4,Superior
+E0019,F,Analista Pleno,5544.99,5,Superior
+E0020,M,Supervisor,10775.69,8,Pós-graduação
+E0021,F,Analista Júnior,4536.64,2,Superior
+E0022,M,Analista Júnior,3968.3,1,Superior
+E0023,F,Analista Sênior,9879.4,2,Pós-graduação
+E0024,M,Analista Pleno,7076.94,5,Superior
+E0025,M,Analista Pleno,7251.03,3,Pós-graduação
+E0026,M,Analista Júnior,4683.64,1,Superior
+E0027,M,Especialista,12726.52,14,Superior
+E0028,F,Analista Sênior,9628.19,4,Superior
+E0029,M,Analista Pleno,6509.01,4,Superior
+E0030,M,Analista Pleno,7135.56,4,Pós-graduação
+E0031,F,Analista Sênior,9470.55,7,Superior
+E0032,F,Supervisor,10757.94,3,Superior
+E0033,F,Analista Júnior,4096.75,4,Superior
+E0034,M,Supervisor,11854.39,7,Superior
+E0035,M,Analista Júnior,3983.64,0,Superior
+E0036,M,Analista Júnior,4441.66,3,Superior
+E0037,M,Analista Pleno,6426.8,5,Superior
+E0038,M,Analista Trainee,3106.09,1,Superior
+E0039,M,Gerente,16067.11,6,Pós-graduação
+E0040,F,Analista Trainee,2804.02,0,Superior
+E0041,M,Analista Sênior,12366.58,19,Superior
+E0042,M,Analista Sênior,8258.66,2,Superior
+E0043,F,Supervisor,10763.35,3,Superior
+E0044,F,Analista Pleno,6394.1,6,Superior
+E0045,F,Analista Júnior,4588.96,2,Superior
+E0046,F,Especialista,12884.52,10,Mestrado
+E0047,F,Analista Trainee,3068.75,3,Superior
+E0048,F,Analista Trainee,2960.99,1,Superior
+E0049,F,Gerente,17539.1,18,Mestrado
+E0050,M,Supervisor,10960.99,6,Pós-graduação
+E0051,M,Coordenador,12143.85,8,Superior
+E0052,F,Analista Pleno,6551.59,10,Superior
+E0053,M,Analista Pleno,8488.14,3,Pós-graduação
+E0054,M,Analista Pleno,7491.3,10,Pós-graduação
+E0055,F,Analista Sênior,9853.67,11,Pós-graduação
+E0056,F,Analista Sênior,11099.72,16,Mestrado
+E0057,M,Gerente,19552.39,24,Mestrado
+E0058,M,Analista Júnior,5111.73,1,Superior
+E0059,M,Analista Sênior,12155.39,7,Pós-graduação
+E0060,M,Analista Sênior,10346.17,9,Superior
+E0061,M,Analista Pleno,7561.26,6,Pós-graduação
+E0062,F,Analista Júnior,4837.91,2,Superior
+E0063,F,Analista Pleno,7654.91,9,Mestrado
+E0064,F,Analista Pleno,7843.14,8,Mestrado
+E0065,M,Coordenador,12617.95,2,Pós-graduação
+E0066,M,Analista Pleno,6955.15,2,Superior
+E0067,M,Gerente,20400.52,11,Mestrado
+E0068,M,Diretor,30346.18,14,Mestrado
+E0069,F,Analista Júnior,4888.5,2,Pós-graduação
+E0070,F,Analista Trainee,2486.88,1,Superior
+E0071,F,Coordenador,14447.48,14,Pós-graduação
+E0072,F,Coordenador,13462.83,5,Pós-graduação
+E0073,M,Analista Sênior,9100.29,4,Superior
+E0074,M,Especialista,13818.56,3,Pós-graduação
+E0075,M,Coordenador,12193.3,15,Superior
+E0076,M,Analista Pleno,7773.74,4,Superior
+E0077,M,Analista Pleno,8199.94,7,Mestrado
+E0078,F,Analista Sênior,10240.21,17,Superior
+E0079,F,Analista Pleno,5895.35,5,Superior
+E0080,M,Analista Júnior,5527.46,1,Superior
+E0081,M,Analista Júnior,4694.19,2,Superior
+E0082,M,Analista Pleno,9136.04,7,Superior
+E0083,M,Analista Sênior,9591.16,7,Superior
+E0084,F,Supervisor,9789.91,4,Superior
+E0085,F,Coordenador,12456.58,7,Superior
+E0086,F,Supervisor,9673.18,1,Superior
+E0087,F,Analista Sênior,10978.12,21,Superior
+E0088,F,Especialista,12524.12,8,Superior
+E0089,F,Analista Júnior,4052.69,3,Superior
+E0090,F,Diretor,26802.91,28,Superior
+E0091,F,Analista Pleno,6945.55,3,Pós-graduação
+E0092,F,Analista Júnior,3999.05,1,Superior
+E0093,M,Analista Júnior,4535.23,2,Superior
+E0094,F,Analista Trainee,3049.27,1,Superior
+E0095,M,Supervisor,9845.28,7,Pós-graduação
+E0096,M,Analista Pleno,6962.92,3,Superior
+E0097,F,Analista Sênior,8781.88,10,Superior
+E0098,F,Analista Pleno,5591.18,1,Superior
+E0099,M,Analista Sênior,11436.44,13,Pós-graduação
+E0100,M,Especialista,15883.71,7,Superior
+E0101,M,Analista Pleno,7911.39,5,Mestrado
+E0102,M,Supervisor,9652.34,5,Superior
+E0103,M,Analista Pleno,6503.35,5,Superior
+E0104,M,Analista Júnior,5048.47,1,Pós-graduação
+E0105,F,Analista Pleno,6860.97,2,Pós-graduação
+E0106,M,Coordenador,15370.2,13,Superior
+E0107,F,Coordenador,11111.94,10,Superior
+E0108,M,Coordenador,15551.6,4,Superior
+E0109,M,Analista Pleno,6385.94,3,Pós-graduação
+E0110,F,Analista Júnior,4929.5,1,Mestrado
+E0111,F,Analista Pleno,5777.43,6,Pós-graduação
+E0112,M,Analista Pleno,6519.23,10,Superior
+E0113,F,Analista Júnior,4188.46,1,Superior
+E0114,M,Gerente,15185.48,6,Mestrado
+E0115,M,Analista Pleno,6919.93,3,Superior
+E0116,F,Analista Pleno,7138.74,6,Pós-graduação
+E0117,M,Analista Sênior,10934.5,6,Superior
+E0118,M,Especialista,13922.59,6,Superior
+E0119,M,Analista Júnior,5008.87,1,Superior
+E0120,F,Gerente,13206.38,6,Superior
+E0121,F,Analista Sênior,9853.63,5,Superior
+E0122,F,Especialista,13229.05,11,Pós-graduação
+E0123,M,Analista Júnior,3941.05,2,Superior
+E0124,M,Analista Pleno,5298.61,2,Superior
+E0125,M,Analista Pleno,7197.05,9,Mestrado
+E0126,M,Analista Pleno,7004.13,4,Superior
+E0127,F,Analista Trainee,3188.09,1,Superior
+E0128,M,Analista Sênior,11555.73,1,Pós-graduação
+E0129,M,Analista Júnior,4361.29,1,Pós-graduação
+E0130,M,Analista Sênior,10976.08,12,Superior
+E0131,F,Analista Sênior,9595.46,9,Superior
+E0132,F,Analista Pleno,7891.35,3,Pós-graduação
+E0133,M,Analista Pleno,6386.09,8,Superior
+E0134,F,Analista Júnior,5178.26,1,Superior
+E0135,F,Analista Sênior,8630.81,7,Pós-graduação
+E0136,F,Analista Júnior,3618.44,1,Superior
+E0137,M,Analista Trainee,2789.99,1,Superior
+E0138,F,Analista Sênior,9596.2,8,Pós-graduação
+E0139,M,Diretor,29819.84,15,Mestrado
+E0140,F,Analista Pleno,6980.28,5,Pós-graduação
+E0141,F,Gerente,17176.47,23,Mestrado
+E0142,M,Analista Pleno,7691.41,4,Superior
+E0143,M,Supervisor,11763.06,16,Mestrado
+E0144,F,Supervisor,12477.55,15,Superior
+E0145,M,Analista Pleno,9361.18,4,Superior
+E0146,F,Analista Sênior,10376.05,11,Superior
+E0147,F,Analista Pleno,5532.76,4,Pós-graduação
+E0148,F,Gerente,14784.09,4,Mestrado
+E0149,F,Analista Júnior,4448.64,1,Superior
+E0150,M,Analista Pleno,6803.61,4,Superior
+E0151,M,Analista Pleno,6827.13,4,Mestrado
+E0152,F,Gerente,12881.01,13,Pós-graduação
+E0153,M,Coordenador,11949.61,6,Superior
+E0154,M,Coordenador,12674.41,5,Superior
+E0155,M,Supervisor,11183.04,17,Superior
+E0156,F,Analista Júnior,4573.46,1,Superior
+E0157,M,Analista Júnior,4915.46,3,Superior
+E0158,F,Analista Júnior,4331.17,1,Pós-graduação
+E0159,M,Analista Sênior,9721.33,6,Superior
+E0160,M,Analista Júnior,4945.11,3,Superior
+E0161,F,Analista Júnior,5129.76,3,Pós-graduação
+E0162,M,Analista Sênior,7277.76,7,Superior
+E0163,M,Supervisor,9699.69,2,Mestrado
+E0164,F,Analista Trainee,3004.32,1,Superior
+E0165,M,Analista Júnior,3973.04,1,Superior
+E0166,F,Analista Pleno,6483.57,7,Superior
+E0167,M,Analista Pleno,6387.13,2,Superior
+E0168,M,Analista Sênior,10616.93,8,Superior
+E0169,F,Coordenador,12208.15,3,Pós-graduação
+E0170,M,Analista Sênior,11496.4,10,Superior
+E0171,M,Analista Pleno,8020.27,6,Pós-graduação
+E0172,F,Analista Sênior,9179.23,5,Superior
+E0173,M,Especialista,15857.9,12,Superior
+E0174,M,Supervisor,9576.13,3,Superior
+E0175,F,Analista Júnior,4655.8,2,Superior
+E0176,M,Especialista,14291.39,1,Pós-graduação
+E0177,M,Diretor,26114.76,10,Pós-graduação
+E0178,M,Analista Sênior,11111.08,10,Superior
+E0179,M,Analista Pleno,7448.76,2,Pós-graduação
+E0180,M,Coordenador,16313.82,4,Pós-graduação
+E0181,F,Analista Pleno,6623.26,4,Superior
+E0182,F,Analista Pleno,6225.0,3,Superior
+E0183,M,Analista Pleno,6828.92,9,Pós-graduação
+E0184,M,Analista Pleno,8814.87,2,Superior
+E0185,M,Gerente,19338.57,12,Mestrado
+E0186,M,Coordenador,11588.86,3,Superior
+E0187,M,Analista Sênior,12762.5,10,Mestrado
+E0188,M,Analista Júnior,4957.27,3,Superior
+E0189,M,Analista Trainee,2770.85,0,Superior
+E0190,F,Analista Pleno,6538.74,9,Superior
+E0191,M,Analista Júnior,4223.15,3,Superior
+E0192,F,Analista Trainee,2774.04,0,Superior
+E0193,F,Coordenador,12512.46,8,Mestrado
+E0194,F,Supervisor,9404.22,6,Superior
+E0195,M,Analista Sênior,10058.54,15,Superior
+E0196,F,Supervisor,10734.75,9,Superior
+E0197,M,Analista Pleno,6966.64,5,Superior
+E0198,M,Coordenador,11222.82,1,Superior
+E0199,M,Analista Pleno,8448.27,2,Pós-graduação
+E0200,F,Analista Trainee,2579.34,0,Superior
+E0201,M,Supervisor,10380.43,4,Superior
+E0202,M,Analista Pleno,5800.13,2,Superior
+E0203,M,Coordenador,15585.37,13,Pós-graduação
+E0204,F,Gerente,16587.65,29,Superior
+E0205,F,Analista Júnior,4282.23,1,Superior
+E0206,F,Coordenador,11557.26,6,Superior
+E0207,F,Analista Sênior,7817.61,6,Superior
+E0208,M,Analista Júnior,5181.33,1,Superior
+E0209,M,Analista Sênior,8801.54,3,Superior
+E0210,M,Analista Sênior,9513.95,4,Superior
+E0211,M,Analista Pleno,7955.58,4,Superior
+E0212,M,Coordenador,15513.27,22,Pós-graduação
+E0213,M,Gerente,20724.72,10,Pós-graduação
+E0214,M,Analista Pleno,6630.4,2,Superior
+E0215,F,Analista Júnior,4235.22,3,Superior
+E0216,F,Supervisor,10302.83,4,Pós-graduação
+E0217,M,Analista Trainee,3043.1,1,Superior
+E0218,M,Analista Trainee,2443.62,1,Superior
+E0219,F,Analista Pleno,6320.46,4,Superior
+E0220,M,Analista Pleno,5835.94,4,Pós-graduação
+E0221,M,Analista Sênior,8367.93,2,Superior
+E0222,M,Coordenador,13617.11,14,Mestrado
+E0223,F,Analista Pleno,6205.0,3,Pós-graduação
+E0224,F,Analista Pleno,5836.05,10,Superior
+E0225,F,Especialista,12835.27,6,Pós-graduação
+E0226,M,Analista Pleno,5451.72,1,Superior
+E0227,M,Analista Júnior,5408.53,2,Mestrado
+E0228,M,Analista Sênior,9968.13,5,Superior
+E0229,M,Analista Sênior,12964.28,20,Pós-graduação
+E0230,F,Gerente,17122.45,15,Superior
+E0231,F,Coordenador,11723.17,7,Pós-graduação
+E0232,F,Analista Pleno,6352.54,1,Superior
+E0233,F,Gerente,20566.69,21,Mestrado
+E0234,M,Coordenador,13748.07,9,Pós-graduação
+E0235,M,Coordenador,14437.08,17,Pós-graduação
+E0236,F,Analista Pleno,6408.24,8,Pós-graduação
+E0237,M,Gerente,19805.29,8,Superior
+E0238,F,Analista Júnior,4238.05,2,Superior
+E0239,F,Analista Júnior,4894.72,1,Pós-graduação
+E0240,F,Analista Sênior,10668.39,5,Pós-graduação
+E0241,F,Analista Pleno,7767.07,12,Mestrado
+E0242,M,Supervisor,10185.58,9,Pós-graduação
+E0243,F,Analista Pleno,6613.99,6,Mestrado
+E0244,F,Analista Júnior,3257.43,2,Superior
+E0245,F,Analista Pleno,7231.66,3,Superior
+E0246,F,Analista Sênior,10954.74,20,Mestrado
+E0247,M,Analista Trainee,3001.52,1,Superior
+E0248,M,Coordenador,14467.21,23,Pós-graduação
+E0249,F,Analista Pleno,6062.56,7,Pós-graduação
+E0250,M,Analista Júnior,3675.73,2,Superior
+E0251,F,Coordenador,12001.43,7,Superior
+E0252,M,Coordenador,11708.79,14,Superior
+E0253,F,Analista Júnior,3886.63,1,Superior
+E0254,F,Analista Trainee,2562.8,1,Superior
+E0255,F,Coordenador,14178.74,18,Pós-graduação
+E0256,M,Analista Júnior,5038.76,5,Superior
+E0257,F,Analista Pleno,7812.24,1,Mestrado
+E0258,M,Analista Sênior,10247.99,3,Mestrado
+E0259,M,Supervisor,11802.52,14,Superior
+E0260,M,Analista Pleno,6401.4,7,Superior
+E0261,M,Supervisor,12127.75,4,Mestrado
+E0262,F,Analista Pleno,6113.96,8,Superior
+E0263,F,Analista Pleno,6605.76,1,Mestrado
+E0264,M,Coordenador,12734.36,5,Pós-graduação
+E0265,F,Gerente,13581.85,6,Superior
+E0266,F,Gerente,15741.94,16,Superior
+E0267,F,Supervisor,9919.52,2,Superior
+E0268,F,Diretor,27119.59,26,Mestrado
+E0269,M,Analista Pleno,6285.08,1,Superior
+E0270,M,Analista Pleno,7982.63,4,Mestrado
+E0271,M,Analista Pleno,8549.7,9,Pós-graduação
+E0272,F,Analista Pleno,6386.11,3,Superior
+E0273,M,Gerente,17476.83,13,Superior
+E0274,M,Gerente,17420.92,13,Superior
+E0275,F,Supervisor,11904.2,8,Pós-graduação
+E0276,M,Analista Trainee,2994.89,0,Superior
+E0277,M,Supervisor,10103.67,2,Pós-graduação
+E0278,M,Supervisor,9665.53,1,Superior
+E0279,M,Analista Sênior,12272.58,6,Mestrado
+E0280,M,Supervisor,9053.08,6,Pós-graduação
+E0281,M,Especialista,19976.51,26,Pós-graduação
+E0282,F,Diretor,23094.56,15,Pós-graduação
+E0283,M,Analista Pleno,6143.84,4,Pós-graduação
+E0284,M,Analista Sênior,8512.77,4,Superior
+E0285,M,Analista Sênior,10248.91,4,Pós-graduação
+E0286,M,Analista Pleno,5864.84,3,Superior
+E0287,M,Supervisor,13228.7,3,Pós-graduação
+E0288,F,Analista Júnior,3428.68,1,Superior
+E0289,M,Analista Sênior,9384.86,5,Superior
+E0290,F,Supervisor,11103.13,10,Mestrado
+E0291,M,Gerente,15391.2,15,Superior
+E0292,M,Analista Trainee,2879.49,1,Superior
+E0293,M,Supervisor,9450.06,7,Pós-graduação
+E0294,F,Analista Pleno,6557.2,1,Pós-graduação
+E0295,F,Analista Júnior,4051.29,2,Superior
+E0296,M,Analista Trainee,2853.79,1,Superior
+E0297,M,Analista Pleno,8839.45,7,Superior
+E0298,F,Analista Sênior,8269.5,3,Pós-graduação
+E0299,F,Analista Pleno,8198.12,2,Superior
+E0300,M,Analista Júnior,5401.17,1,Superior
+E0301,M,Analista Sênior,11307.27,2,Pós-graduação
+E0302,F,Analista Trainee,2607.3,1,Pós-graduação
+E0303,F,Analista Júnior,4198.12,1,Superior
+E0304,F,Supervisor,10038.86,6,Mestrado
+E0305,F,Analista Sênior,7760.91,5,Pós-graduação
+E0306,M,Gerente,15611.09,11,Mestrado
+E0307,F,Analista Pleno,7788.96,4,Mestrado
+E0308,M,Analista Sênior,11674.46,12,Pós-graduação
+E0309,M,Analista Pleno,7095.98,2,Pós-graduação
+E0310,M,Analista Pleno,6790.05,6,Superior
+E0311,F,Supervisor,7976.04,5,Superior
+E0312,F,Analista Pleno,6768.32,4,Superior
+E0313,M,Analista Júnior,4249.55,1,Superior
+E0314,M,Analista Trainee,2723.94,1,Superior
+E0315,M,Analista Trainee,3249.15,1,Superior
+E0316,F,Analista Sênior,8818.17,10,Pós-graduação
+E0317,M,Gerente,16108.44,16,Pós-graduação
+E0318,F,Analista Trainee,2962.17,1,Superior
+E0319,M,Analista Sênior,8521.76,2,Superior
+E0320,F,Analista Sênior,9283.37,5,Superior
+E0321,M,Analista Júnior,4764.88,1,Pós-graduação
+E0322,M,Gerente,19864.03,11,Mestrado
+E0323,M,Diretor,20907.65,18,Pós-graduação
+E0324,M,Analista Pleno,7462.27,3,Superior
+E0325,M,Coordenador,12890.75,9,Mestrado
+E0326,F,Analista Pleno,7797.79,1,Mestrado
+E0327,M,Analista Júnior,4253.03,2,Superior
+E0328,F,Gerente,11814.03,4,Superior
+E0329,F,Especialista,13280.2,4,Mestrado
+E0330,M,Analista Pleno,6109.23,5,Superior
+E0331,F,Analista Sênior,8861.35,7,Superior
+E0332,F,Especialista,14041.33,9,Pós-graduação
+E0333,F,Analista Sênior,9799.17,7,Superior
+E0334,F,Analista Júnior,4236.01,4,Superior
+E0335,M,Analista Pleno,6164.44,2,Superior
+E0336,F,Analista Pleno,7056.98,5,Superior
+E0337,F,Supervisor,13534.08,9,Mestrado
+E0338,F,Analista Trainee,3226.88,1,Superior
+E0339,F,Analista Trainee,3445.14,1,Superior
+E0340,F,Analista Pleno,6714.71,4,Superior
+E0341,M,Gerente,14916.94,6,Pós-graduação
+E0342,F,Analista Pleno,6889.9,0,Superior
+E0343,F,Analista Júnior,4130.74,1,Superior
+E0344,M,Analista Júnior,5581.39,2,Superior
+E0345,F,Analista Pleno,6253.7,2,Superior
+E0346,F,Analista Pleno,6421.12,2,Superior
+E0347,M,Supervisor,8922.51,2,Pós-graduação
+E0348,F,Analista Pleno,7056.54,5,Superior
+E0349,M,Analista Trainee,2491.2,1,Superior
+E0350,F,Analista Júnior,4349.62,1,Superior
+E0351,F,Analista Pleno,6510.04,5,Superior
+E0352,M,Diretor,28249.03,13,Pós-graduação
+E0353,M,Supervisor,11937.64,8,Pós-graduação
+E0354,M,Analista Pleno,7889.46,5,Pós-graduação
+E0355,M,Supervisor,11449.49,15,Superior
+E0356,F,Analista Pleno,6385.11,7,Superior
+E0357,F,Coordenador,11772.74,10,Superior
+E0358,F,Analista Pleno,6011.88,4,Superior
+E0359,M,Analista Pleno,7458.57,4,Pós-graduação
+E0360,F,Coordenador,14091.13,10,Pós-graduação
+E0361,M,Analista Júnior,4550.83,7,Superior
+E0362,M,Analista Sênior,10264.0,5,Superior
+E0363,M,Analista Júnior,4249.7,2,Superior
+E0364,M,Especialista,15266.76,6,Mestrado
+E0365,M,Coordenador,11205.34,13,Superior
+E0366,M,Gerente,15092.3,6,Pós-graduação
+E0367,F,Coordenador,11533.16,12,Superior
+E0368,M,Analista Pleno,6276.98,1,Superior
+E0369,M,Analista Pleno,6993.69,6,Superior
+E0370,F,Analista Pleno,5840.26,4,Superior
+E0371,M,Analista Sênior,10609.78,7,Mestrado
+E0372,M,Gerente,20692.93,15,Pós-graduação
+E0373,F,Analista Pleno,6497.45,2,Pós-graduação
+E0374,M,Especialista,13605.83,8,Mestrado
+E0375,F,Coordenador,13496.4,10,Mestrado
+E0376,F,Analista Pleno,5576.46,2,Superior
+E0377,M,Coordenador,12595.57,5,Mestrado
+E0378,F,Analista Sênior,9026.17,8,Pós-graduação
+E0379,M,Analista Trainee,2364.31,0,Superior
+E0380,F,Analista Pleno,6770.62,5,Superior
+E0381,F,Diretor,26527.46,14,Pós-graduação
+E0382,M,Analista Júnior,4035.11,0,Superior
+E0383,F,Analista Pleno,7650.22,4,Superior
+E0384,M,Analista Sênior,11220.25,12,Pós-graduação
+E0385,M,Analista Pleno,5949.42,6,Superior
+E0386,F,Analista Júnior,4859.45,3,Superior
+E0387,M,Coordenador,11278.19,6,Superior
+E0388,M,Analista Júnior,4614.17,2,Superior
+E0389,F,Diretor,26424.38,21,Pós-graduação
+E0390,M,Especialista,13420.64,7,Pós-graduação
+E0391,F,Analista Pleno,6900.26,7,Superior
+E0392,M,Coordenador,12351.21,10,Mestrado
+E0393,F,Analista Júnior,5267.17,1,Mestrado
+E0394,F,Supervisor,10223.45,16,Superior
+E0395,M,Analista Sênior,10398.86,6,Superior
+E0396,M,Analista Sênior,8218.4,6,Pós-graduação
+E0397,F,Analista Sênior,9185.73,12,Pós-graduação
+E0398,M,Analista Pleno,7303.23,14,Superior
+E0399,M,Analista Trainee,3518.04,0,Superior
+E0400,M,Gerente,18410.88,14,Pós-graduação
