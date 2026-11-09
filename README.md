@@ -38,8 +38,8 @@ Os gráficos acima são gerados pelo mesmo código que alimenta o painel (`pytho
 Desenvolvido e testado com Python 3.13.
 
 ```bash
-git clone https://github.com/jvmelllo/a3_Gestao_e_Qualidade_de_Software.git
-cd a3_Gestao_e_Qualidade_de_Software
+git clone https://github.com/jvmelllo/equidade-salarial-GQS.git
+cd equidade-salarial-GQS
 python -m venv .venv
 source .venv/bin/activate        # no Windows: .venv\Scripts\activate
 pip install -r requirements.txt
