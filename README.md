@@ -4,6 +4,8 @@ Painel e biblioteca em Python para medir o **hiato salarial de gênero** em uma 
 
 Começou como trabalho da disciplina de Gestão e Qualidade de Software (IBMR) e foi refeito do zero como projeto de análise de dados.
 
+**[Abrir o painel online](https://equidade-salarial-gqs.streamlit.app/)** (dados fictícios). Se aparecer a tela "This app has gone to sleep", clique no botão para acordar o app; leva alguns segundos.
+
 > **Os dados de exemplo são fictícios.** Foram gerados por `scripts/gerar_dados_exemplo.py` com regras explícitas (ver [docs/metodologia.md](docs/metodologia.md)). Os números abaixo descrevem essa base inventada, não o mercado de trabalho.
 
 ## O que ele responde
